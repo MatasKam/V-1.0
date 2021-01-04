@@ -1,5 +1,5 @@
 10 studentų ir skirstoma į du atskirus kietų ir nekietų vektorius:
-1 strategija:
+1 strategija (naudojamas 0.5 versijos failas):
 
 skirstymas i dvi grupes ir skaiciavimas truko: 0.0403279
 
